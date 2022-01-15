@@ -8,7 +8,7 @@ For visual learners -> https://youtu.be/UhnEyMDWuyI
 This repositry shows advanced redisearch querying functionalities using python for full text searching, indexing, querying, tag searches, geo localization, aggregation, grouping, filtering and much more. The code is oriented towards an employee management backend - but is pretty generic in a sense that you could re-use the code for your beautiful app that you're trying to develop and sell.
 
 ## queries.py
-A script designed in a functional programming philosophy that allows you to run the queries you desire. You can do the following functionalities so far:
+A script designed w/ a functional programming philosophy that allows you to run the queries you desire. You can do the following functionalities so far:
 - RediSearch Client
 - Wildcard searches
 - SEARCH by first name and last name
