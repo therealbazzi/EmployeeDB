@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  redis:
+    container_name: redis_om_python_demo
+    image: "redislabs/redisearch:edge"
+    ports:
+      - 6379:6379
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
