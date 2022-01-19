@@ -1,5 +1,5 @@
 # EmployeeDB
-Advanced Redis search functionalities on Python applied on an Employee management backend app
+Advanced Redis search functionalities on Python applied on an Employee management backend app. This code is free to use and provides you a methodology of using Redis methods with super minimilistic code (some methods need only 1 line of code).
 
 ## Video tutorial
 For visual learners -> https://youtu.be/UhnEyMDWuyI
